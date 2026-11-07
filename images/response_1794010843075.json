@@ -1,0 +1,47 @@
+{
+  "contract_id": "contract-air-23c4c935",
+  "consumer_id": "laboratoire-iasd",
+  "classifications": [
+    {
+      "date": "2026-10-01",
+      "categorie": "sous_seuil"
+    },
+    {
+      "date": "2026-10-02",
+      "categorie": "au_dessus_seuil"
+    },
+    {
+      "date": "2026-10-03",
+      "categorie": "au_dessus_seuil"
+    },
+    {
+      "date": "2026-10-04",
+      "categorie": "sous_seuil"
+    },
+    {
+      "date": "2026-10-05",
+      "categorie": "au_dessus_seuil"
+    },
+    {
+      "date": "2026-10-06",
+      "categorie": "au_dessus_seuil"
+    },
+    {
+      "date": "2026-10-07",
+      "categorie": "sous_seuil"
+    },
+    {
+      "date": "2026-10-08",
+      "categorie": "sous_seuil"
+    },
+    {
+      "date": "2026-10-09",
+      "categorie": "au_dessus_seuil"
+    },
+    {
+      "date": "2026-10-10",
+      "categorie": "sous_seuil"
+    }
+  ],
+  "signature": "f295a5eaf3a54e481372556a302b57fcdd21967f002619c54b11053bad7f8d07"
+}

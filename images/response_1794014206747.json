@@ -1,0 +1,14 @@
+{
+  "au_dessus_seuil": {
+    "n": 5,
+    "moyenne": 18.81,
+    "statut": "OK"
+  },
+  "sous_seuil": {
+    "n": 5,
+    "moyenne": 9.72,
+    "statut": "OK"
+  },
+  "bruit_applique": true,
+  "epsilon": 1
+}
